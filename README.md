@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/emCukfK.png" alt="lost" />
+<img src="https://i.imgur.com/shKdDke.png" alt="lost" />
 
 ## About me <img src="https://i.imgur.com/HQ1fio8.gif" alt="peepo-clap" />
 
