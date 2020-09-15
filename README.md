@@ -15,6 +15,7 @@ Up until 2012 I used to be a commercial artist, but in 2016 I began a long and a
 ### Where can you find me? <img src="https://i.imgur.com/kIn3tW2.gif" alt="mod-check" />
 
 - [My Website](https://mattcarlotta.sh)
+- [My Blog](http://mattcarlotta.blogspot.com/)
 - [Codesandbox](https://codesandbox.io/u/mattcarlotta/sandboxes)
 - [Stackoverflow](https://stackoverflow.com/users/7376526/matt-carlotta?tab=profile)
 - [NextJS Discussions](https://github.com/vercel/next.js/discussions)
