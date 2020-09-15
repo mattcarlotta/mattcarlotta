@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/m02jc8R.png" alt="lost" />
+<img src="https://i.imgur.com/PdMKWzs.png" alt="lost" />
 
 Up until 2012 I used to be a commercial artist, but in 2016 I began a long and ardous journey to become a fullstack engineer who is passionate about open-source projects, helping the web development community, and building kick-ass, SEO optimized apps. Some technologies I enjoy working with include Mongo/PostgreSQL, ReactJS, Redux, NextJS, ExpressJS, and NodeJS. Recently, I've being teaching myself Typescript and delving into the world of Next's static site generators. 
 
