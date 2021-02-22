@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/KCPSBZ6.png" alt="lost" />
+<img src="https://i.imgur.com/5cR46We.png" alt="lost" />
 
 ## About me
 
