@@ -8,7 +8,6 @@ Up until 2012 I used to be a commercial artist, but in 2016 I began a long and a
 
 - [Like to think I play hockey in the NHL](https://i.imgur.com/iBXFEAU.jpg)
 - [Build custom spicy computers](https://i.imgur.com/4f4Q76X.jpg)
-- [Watch streamers on Twitch](https://i.imgur.com/LM4KMIu.gif)
 
 
 ### Where can you find me?
