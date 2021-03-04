@@ -7,8 +7,9 @@ Up until 2012 I used to be a commercial artist, but in 2016 I began a long and a
 ### What do I do in my free time?
 
 - [Like to think I play hockey in the NHL](https://i.imgur.com/iBXFEAU.jpg)
-- [Build custom spicy computers](https://i.imgur.com/4f4Q76X.jpg)
-
+- [Build my own custom spicy computers](https://pcpartpicker.com/list/Ksfqgt)
+- Maintain remote Linux servers (Ubuntu/Debian based OSes)
+- Body building and designing meal plans for health & fitness
 
 ### Where can you find me?
 
