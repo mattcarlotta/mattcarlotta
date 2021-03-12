@@ -16,7 +16,7 @@ Up until 2012 I used to be a commercial artist, but in 2016 I began a long and a
 - [Like to think I play hockey in the NHL](https://i.imgur.com/iBXFEAU.jpg)
 - [Build my own custom spicy computers](https://pcpartpicker.com/list/Ksfqgt)
 - Maintain remote Linux servers (Ubuntu/Debian based OSes)
-- Body building and designing meal plans for health & fitness
+- Body building and tweaking my meal plans for health & fitness
 
 ### Where can you find me?
 
