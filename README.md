@@ -47,6 +47,7 @@ Miscelleanous:
 <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" alt="Markdown" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" alt="Yarn" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="Nginx" width="50" height="50"/>
+<a href="https://pm2.keymetrics.io" alt="Navigate to PM2 home page"><img src="https://i.imgur.com/diYMewN.png" alt="PM2" width="50" height="50"/></a>
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="NPM" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original.svg" alt="Digital Ocean" width="50" height="50"/>
 
