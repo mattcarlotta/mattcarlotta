@@ -6,7 +6,7 @@
 [![Stackoverflow Badge](https://img.shields.io/badge/Stackoverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/7376526/matt-carlotta?tab=profile)
 [![NextJS Badge](https://img.shields.io/badge/Nextjs%20Contributor-0070f3?style=for-the-badge&logo=next.js&logoColor=white)](https://github.com/vercel/next.js)
 
-## My Toolbelt
+## Toolbelt
 
 Languages:
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> 
@@ -57,7 +57,7 @@ Miscelleanous:
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="NPM" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original.svg" alt="Digital Ocean" width="50" height="50"/>
 
-## My Github Stats
+## Github Stats
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mattcarlotta&hide=python&title_color=ffffff&text_color=c9cacc&line_height=27&icon_color=2bbc8a&bg_color=1d1f21&layout=compact&langs_count=6)
 
