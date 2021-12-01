@@ -1,5 +1,11 @@
 <a href="https://mattcarlotta.sh/" alt="Navigate to my personal website"><img src="https://i.imgur.com/5cR46We.png" alt="An old man who lost his way" /></a>
 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mattcarlotta)
+[![Portfolio Badge](https://img.shields.io/badge/Website-3b5998?color=green&style=for-the-badge&logo=google-chrome&logoColor=white)](https://mattcarlotta.sh)
+[![Codesandbox Badge](https://img.shields.io/badge/Codesandbox-343434?style=for-the-badge&logo=codesandbox&logoColor=white)](https://codesandbox.io/u/mattcarlotta/sandboxes)
+[![Stackoverflow Badge](https://img.shields.io/badge/Stackoverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/7376526/matt-carlotta?tab=profile)
+[![NextJS Badge](https://img.shields.io/badge/Nextjs-0070f3?style=for-the-badge&logo=next.js&logoColor=white)](https://github.com/vercel/next.js)
+
 ## My Toolbelt
 
 Languages:
@@ -51,7 +57,7 @@ Miscelleanous:
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="NPM" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original.svg" alt="Digital Ocean" width="50" height="50"/>
 
-## Stats
+## My Github Stats
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mattcarlotta&hide=python&title_color=ffffff&text_color=c9cacc&line_height=27&icon_color=2bbc8a&bg_color=1d1f21)
 
@@ -63,13 +69,7 @@ Miscelleanous:
 - [Build my own custom spicy computers](https://pcpartpicker.com/list/Ksfqgt)
 - Maintain remote Linux servers (Ubuntu/Debian based OSes)
 - Body building and tweaking my meal plans for health & fitness
-
-## Where can you find me?
-
-- [My Website](https://mattcarlotta.sh)
-- [My Blog](http://mattcarlotta.blogspot.com/)
-- [Codesandbox](https://codesandbox.io/u/mattcarlotta/sandboxes)
-- [Stackoverflow](https://stackoverflow.com/users/7376526/matt-carlotta?tab=profile)
-- [NextJS Discussions](https://github.com/vercel/next.js/discussions)
 - [Walking Nico around town](https://i.imgur.com/sk64QET.jpg)
+
+
 
