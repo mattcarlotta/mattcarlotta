@@ -1,10 +1,10 @@
 <a href="https://mattcarlotta.sh/background" alt="Navigate to my personal website"><img src="https://i.imgur.com/5cR46We.png" alt="An old man who lost his way" /></a>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mattcarlotta)
-[![Portfolio Badge](https://img.shields.io/badge/Website-3b5998?color=green&style=for-the-badge&logo=google-chrome&logoColor=white)](https://mattcarlotta.sh)
+[![Portfolio Badge](https://img.shields.io/badge/My%20Website-0088FF?&style=for-the-badge&logo=digitalocean&logoColor=white)](https://mattcarlotta.sh)
 [![Codesandbox Badge](https://img.shields.io/badge/Codesandbox-343434?style=for-the-badge&logo=codesandbox&logoColor=white)](https://codesandbox.io/u/mattcarlotta/sandboxes)
 [![Stackoverflow Badge](https://img.shields.io/badge/Stackoverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/7376526/matt-carlotta?tab=profile)
-[![NextJS Badge](https://img.shields.io/badge/Nextjs%20Contributor-0070f3?style=for-the-badge&logo=next.js&logoColor=white)](https://github.com/vercel/next.js)
+[![NextJS Badge](https://img.shields.io/badge/Next%2Ejs%20Contributor-000000?color=green&style=for-the-badge&logo=next.js&logoColor=white)](https://github.com/vercel/next.js)
 
 ## Toolbelt
 
@@ -67,6 +67,8 @@ Miscelleanous:
 
 - [Like to think I play hockey in the NHL](https://i.imgur.com/iBXFEAU.jpg)
 - [Build my own custom spicy computers](https://pcpartpicker.com/list/Ksfqgt)
+- Answer questions on [Stackoverflow](https://stackoverflow.com/questions/tagged/reactjs?sort=newest&page=1&pagesize=50)
+- Answer questions and partipate in [Next.js Discussions](https://github.com/vercel/next.js/discussions)
 - Maintain remote Linux servers (Ubuntu/Debian based OSes)
 - Body building and tweaking my meal plans for health & fitness
 - [Walking Nico around town](https://i.imgur.com/sk64QET.jpg)
