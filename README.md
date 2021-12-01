@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/5cR46We.png" alt="An old man who lost his way" />
+<a href="https://mattcarlotta.sh/" alt="Navigate to my personal website"><img src="https://i.imgur.com/5cR46We.png" alt="An old man who lost his way" /></a>
 
 ## My Toolbelt
 
