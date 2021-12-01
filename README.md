@@ -4,7 +4,7 @@
 [![Portfolio Badge](https://img.shields.io/badge/Website-3b5998?color=green&style=for-the-badge&logo=google-chrome&logoColor=white)](https://mattcarlotta.sh)
 [![Codesandbox Badge](https://img.shields.io/badge/Codesandbox-343434?style=for-the-badge&logo=codesandbox&logoColor=white)](https://codesandbox.io/u/mattcarlotta/sandboxes)
 [![Stackoverflow Badge](https://img.shields.io/badge/Stackoverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/7376526/matt-carlotta?tab=profile)
-[![NextJS Badge](https://img.shields.io/badge/Nextjs-0070f3?style=for-the-badge&logo=next.js&logoColor=white)](https://github.com/vercel/next.js)
+[![NextJS Badge](https://img.shields.io/badge/Nextjs%20Contributor-0070f3?style=for-the-badge&logo=next.js&logoColor=white)](https://github.com/vercel/next.js)
 
 ## My Toolbelt
 
