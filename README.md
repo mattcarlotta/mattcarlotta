@@ -18,7 +18,7 @@ Front-End Bundlers/Compilers:
 <a href="https://webpack.js.org" alt="Navigate to Webpack home page"><img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-plain-wordmark.svg" alt="Webpack" width="50" height="50"/></a>
 <a href="https://www.rollupjs.org" alt="Navigate to RollupJS home page"><img src="https://i.imgur.com/CTTfVpZ.png" alt="RollupJS" width="50" height="50"/></a>
 
-Front-End UI:
+Front-End UI Libraries:
 <a href="https://emotion.sh/docs/introduction" alt="Navigate to EmotionJS home page"><img src="https://i.imgur.com/Mzg17YY.png" alt="EmotionJS" width="50" height="50"/></a>
 <a href="https://mui.com" alt="Navigate to Material UI home page"><img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="Material UI" width="50" height="50"/></a>
 <a href="https://ant.design" alt="Navigate to Ant Design home page"><img src="https://i.imgur.com/8eR7ax0.png" alt="Ant Design" width="50" height="50"/></a>
