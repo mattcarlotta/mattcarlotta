@@ -1,6 +1,6 @@
 <a href="https://mattcarlotta.sh/background" alt="Navigate to my personal website"><img src="https://i.imgur.com/5cR46We.png" alt="An old man who lost his way" /></a>
 
-[![Portfolio Badge](https://img.shields.io/badge/My%20Website-0088FF?&style=for-the-badge&logo=digitalocean&logoColor=white)](https://mattcarlotta.sh)
+[![Portfolio Badge](https://img.shields.io/badge/My%20Website-0088FF?&style=for-the-badge&logo=vercel&logoColor=white)](https://mattcarlotta.dev)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mattcarlotta)
 [![Codesandbox Badge](https://img.shields.io/badge/Codesandbox-343434?color=green&style=for-the-badge&logo=codesandbox&logoColor=white)](https://codesandbox.io/u/mattcarlotta/sandboxes)
 [![Stackoverflow Badge](https://img.shields.io/badge/Stackoverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/7376526/matt-carlotta?tab=profile)
@@ -23,7 +23,7 @@ Front-End Bundlers/Compilers:
 
 Front-End UI Libraries:
 
-<a href="https://emotion.sh/docs/introduction" alt="Navigate to EmotionJS home page"><img src="https://i.imgur.com/Mzg17YY.png" alt="EmotionJS" width="50" height="50"/></a> <a href="https://mui.com" alt="Navigate to Material UI home page"><img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="Material UI" width="50" height="50"/></a> <a href="https://ant.design" alt="Navigate to Ant Design home page"><img src="https://i.imgur.com/8eR7ax0.png" alt="Ant Design" width="50" height="50"/></a> <a href="https://sass-lang.com" alt="Navigate to Sass home page"><img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Sass" width="50" height="50"/></a>
+<a href="https://emotion.sh/docs/introduction" alt="Navigate to EmotionJS home page"><img src="https://i.imgur.com/Mzg17YY.png" alt="EmotionJS" width="50" height="50"/></a> <a href="https://mui.com" alt="Navigate to Material UI home page"><img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="Material UI" width="50" height="50"/></a> <a href="https://ant.design" alt="Navigate to Ant Design home page"><img src="https://i.imgur.com/8eR7ax0.png" alt="Ant Design" width="50" height="50"/></a><a href="https://tailwindcss.com/" alt="Navigate to Tailwind home page"><img src="https://i.imgur.com/OE8TqC4.png" alt="taildwind" width="50" height="50" /></a><a href="https://sass-lang.com" alt="Navigate to Sass home page"><img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Sass" width="50" height="50"/></a>
 
 Back-End Frameworks/Integrations:
 
