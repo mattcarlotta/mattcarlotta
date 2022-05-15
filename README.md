@@ -56,12 +56,9 @@ Miscelleanous:
 ## What do I do in my free time?
 
 - [Like to think I play hockey in the NHL](https://i.imgur.com/iBXFEAU.jpg)
-- [Build my own custom spicy computers](https://pcpartpicker.com/list/Ksfqgt)
+- [Build my own custom spicy computers](https://pcpartpicker.com/list/V3L2xs)
 - Answer questions on [Stackoverflow](https://stackoverflow.com/questions/tagged/reactjs?sort=newest&page=1&pagesize=50)
 - Answer questions and partipate in [Next.js Discussions](https://github.com/vercel/next.js/discussions)
 - Maintain remote Linux servers (Ubuntu/Debian based OSes)
 - Body building and tweaking my meal plans for health & fitness
 - [Walking Nico around town](https://i.imgur.com/sk64QET.jpg)
-
-
-
