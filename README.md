@@ -5,7 +5,6 @@
 [![Codesandbox Badge](https://img.shields.io/badge/Codesandbox-343434?color=green&style=for-the-badge&logo=codesandbox&logoColor=white)](https://codesandbox.io/u/mattcarlotta/sandboxes)
 [![Stackoverflow Badge](https://img.shields.io/badge/Stackoverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/7376526/matt-carlotta?tab=profile)
 [![NextJS Badge](https://img.shields.io/badge/Next%2Ejs%20Contributor-8A2BE2?style=for-the-badge&logo=next.js&logoColor=white)](https://github.com/vercel/next.js)
-[![NPM Badge](https://img.shields.io/badge/Packages-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~mattcarlotta)
 
 ## [My Toolbelt](https://mattcarlotta.dev/background#tech-specs)
 
