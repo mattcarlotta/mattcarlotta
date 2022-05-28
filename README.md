@@ -3,8 +3,9 @@
 [![Portfolio Badge](https://img.shields.io/badge/My%20Website-0088FF?&style=for-the-badge&logo=vercel&logoColor=white)](https://mattcarlotta.dev)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mattcarlotta)
 [![Codesandbox Badge](https://img.shields.io/badge/Codesandbox-343434?color=green&style=for-the-badge&logo=codesandbox&logoColor=white)](https://codesandbox.io/u/mattcarlotta/sandboxes)
-[![Stackoverflow Badge](https://img.shields.io/badge/Stackoverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/7376526/matt-carlotta?tab=profile)
 [![NextJS Badge](https://img.shields.io/badge/Next%2Ejs%20Contributor-8A2BE2?style=for-the-badge&logo=next.js&logoColor=white)](https://github.com/vercel/next.js)
+
+[![StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=7376526&theme=dark)](https://stackoverflow.com/users/7376526/matt-carlotta)
 
 ## [My Toolbelt](https://mattcarlotta.dev/background#tech-specs)
 
@@ -46,7 +47,7 @@ Operating Systems:
 Miscelleanous:
 
 <a href="https://nodejs.org/en/" alt="Navigate to NodeJS home page"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="50" height="50"/></a> <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" alt="Adobe Illustrator" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" alt="Adobe Photoshop" width="50" height="50"/> <a href="https://www.markdownguide.org/" alt="Navigate to Markdown home page"><img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" alt="Markdown" width="50" height="50"/></a> <a href="https://yarnpkg.com/" alt="Navigate to Yarn home page"><img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" alt="Yarn" width="50" height="50"/></a> <a href="https://nginx.org/en/" alt="Navigate to Nginx home page"><img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="Nginx" width="50" height="50"/></a> <a href="https://pm2.keymetrics.io" alt="Navigate to PM2 home page"><img src="https://i.imgur.com/diYMewN.png" alt="PM2" width="50" height="50"/></a> <a href="https://www.npmjs.com/" alt="Navigate to NPMJS home page"><img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="NPM" width="50" height="50"/></a> <a href="https://www.digitalocean.com/" alt="Navigate to DigitalOcean home page"><img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original.svg" alt="Digital Ocean" width="50" height="50"/></a>
-
+  
 ## Github Stats
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mattcarlotta&hide=python&title_color=ffffff&text_color=c9cacc&line_height=27&icon_color=2bbc8a&bg_color=1d1f21&layout=compact&langs_count=6)
