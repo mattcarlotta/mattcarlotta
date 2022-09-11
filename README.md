@@ -1,11 +1,9 @@
-<a href="https://mattcarlotta.dev/background" alt="Navigate to my personal website"><img src="https://i.imgur.com/5cR46We.png" alt="An old man who lost his way" /></a>
+[![StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=7376526&theme=dark)](https://stackoverflow.com/users/7376526/matt-carlotta)
 
 [![Portfolio Badge](https://img.shields.io/badge/My%20Website-0088FF?&style=for-the-badge&logo=vercel&logoColor=white)](https://mattcarlotta.dev)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mattcarlotta)
 [![Codesandbox Badge](https://img.shields.io/badge/Codesandbox-343434?color=green&style=for-the-badge&logo=codesandbox&logoColor=white)](https://codesandbox.io/u/mattcarlotta/sandboxes)
 [![NextJS Badge](https://img.shields.io/badge/Next%2Ejs%20Contributor-8A2BE2?style=for-the-badge&logo=next.js&logoColor=white)](https://github.com/vercel/next.js)
-
-[![StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=7376526&theme=dark)](https://stackoverflow.com/users/7376526/matt-carlotta)
 
 ## [My Toolbelt](https://mattcarlotta.dev/background#tech-specs)
 
