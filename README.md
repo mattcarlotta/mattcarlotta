@@ -1,51 +1,20 @@
 [![StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=7376526&theme=dark)](https://stackoverflow.com/users/7376526/matt-carlotta)
 
-[![Portfolio Badge](https://img.shields.io/badge/My%20Website-0088FF?&style=for-the-badge&logo=vercel&logoColor=white)](https://mattcarlotta.dev)
+[![Portfolio Badge](https://img.shields.io/badge/My%20Website-0088FF?&style=for-the-badge&logo=vercel&logoColor=white)](https://macar.dev/)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mattcarlotta)
 [![Codesandbox Badge](https://img.shields.io/badge/Codesandbox-343434?color=green&style=for-the-badge&logo=codesandbox&logoColor=white)](https://codesandbox.io/u/mattcarlotta/sandboxes)
 [![NextJS Badge](https://img.shields.io/badge/Next%2Ejs%20Contributor-8A2BE2?style=for-the-badge&logo=next.js&logoColor=white)](https://github.com/vercel/next.js)
 
-## [My Toolbelt](https://mattcarlotta.dev/background#tech-specs)
+## [My Toolbelt](https://macar.dev/background/#tech-specs)
 
-Languages:
+In September 2016, I transitioned away from an art career to become a fullstack software engineer. As the years have gone by, I have 
+focused my efforts in: MongoDB, ExpressJS, ReactJS/ReduxJS and NodeJS.
 
-<a href="https://www.javascript.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/></a> <a href="https://www.typescriptlang.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/></a> <a href="https://en.wikipedia.org/wiki/Shell_script/"><img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash(shell)" width="50" height="50"/></a> <a href="https://www.rust-lang.org/" alt="Navigate to Rust home page"><img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" alt="Rust" width="50" height="50"/></a>
+The apps I build are test-driven, data-driven, cross-platform, and production-ready. I also deploy and maintain them on remote headless Linux servers. Most importantly, I'm a huge proponent for building web accessible applications that adhere to the Web Content Accessibility Guidelines AA/AAA standards.
 
+Outside of work, I love walking my dog Nico, building my own desktop computers and watching sci-fi/mystery/thriller movies. In my free time, I am passionate about contributing to open-source projects. I enjoy engaging with the web development community by asking & answering questions on various platforms Stackoverflow, Codesandbox and Github discussions.
 
-Front-End Frameworks:
-
-<a href="https://reactjs.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="ReactJS" width="50" height="50"/></a> <a href="https://redux.js.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="ReduxJS" width="50" height="50"/></a> <a href="https://nextjs.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="NextJS" width="50" height="50"/></a> <a href="https://astro.build/"><img src="https://github.com/devicons/devicon/blob/develop/icons/astro/astro-original.svg" alt="Astro" width="50" height="50"/></a>
-
-
-Front-End Bundlers/Compilers:
-
-<a href="https://babeljs.io"><img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" alt="Babel" width="50" height="50"/></a> <a href="https://webpack.js.org"><img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-plain-wordmark.svg" alt="Webpack" width="50" height="50"/></a> <a href="https://www.rollupjs.org"><img src="https://i.imgur.com/CTTfVpZ.png" alt="RollupJS" width="50" height="50"/></a>
-
-Front-End UI Libraries:
-
-<a href="https://emotion.sh/docs/introduction"><img src="https://i.imgur.com/Mzg17YY.png" alt="EmotionJS" width="50" height="50"/></a> <a href="https://mui.com"><img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="Material UI" width="50" height="50"/></a> <a href="https://ant.design"><img src="https://i.imgur.com/8eR7ax0.png" alt="Ant Design" width="50" height="50"/></a> <a href="https://tailwindcss.com/"><img src="https://i.imgur.com/OE8TqC4.png" alt="taildwind" width="50" height="50" /></a> <a href="https://sass-lang.com"><img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Sass" width="50" height="50"/></a>
-
-Back-End Frameworks/Integrations:
-
-<a href="https://expressjs.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="ExpressJS" width="50" height="50"/><a/> <a href="https://www.postgresql.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/></a> <a href="https://www.mongodb.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/></a>
-
-
-Testing Suites:
-
-<a href="https://jestjs.io"><img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="Jest" width="50" height="50"/></a> <a href="https://www.cypress.io"><img src="https://i.imgur.com/F2qBilH.png" alt="Cypress" width="50" height="50"/></a>
-
-Version Control:
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-
-Operating Systems:
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" alt="Mac OS" width="50" height="50"/>
-
-Miscelleanous:
-
-<a href="https://nodejs.org/en/"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="50" height="50"/></a> <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" alt="Adobe Illustrator" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" alt="Adobe Photoshop" width="50" height="50"/> <a href="https://www.markdownguide.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" alt="Markdown" width="50" height="50"/></a> <a href="https://yarnpkg.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" alt="Yarn" width="50" height="50"/></a> <a href="https://nginx.org/en/"><img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="Nginx" width="50" height="50"/></a> <a href="https://pm2.keymetrics.io"><img src="https://i.imgur.com/diYMewN.png" alt="PM2" width="50" height="50"/></a> <a href="https://www.npmjs.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="NPM" width="50" height="50"/></a> <a href="https://www.digitalocean.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original.svg" alt="Digital Ocean" width="50" height="50"/></a>
-  
+ 
 ## Github Stats
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mattcarlotta&hide=python&title_color=ffffff&text_color=c9cacc&line_height=27&icon_color=2bbc8a&bg_color=1d1f21&layout=compact&langs_count=6)
@@ -57,7 +26,5 @@ Miscelleanous:
 - [Like to think I play hockey in the NHL](https://i.imgur.com/iBXFEAU.jpg)
 - [Build my own custom spicy computers](https://pcpartpicker.com/list/V3L2xs)
 - Answer questions on [Stackoverflow](https://stackoverflow.com/questions/tagged/reactjs?sort=newest&page=1&pagesize=50)
-- Answer questions and partipate in [Next.js Discussions](https://github.com/vercel/next.js/discussions)
 - Maintain remote Linux servers (Ubuntu/Debian based OSes)
-- Body building and tweaking my meal plans for health & fitness
 - [Walking Nico around town](https://i.imgur.com/sk64QET.jpg)
