@@ -25,6 +25,5 @@ Outside of work, I love walking my dog Nico, building my own desktop computers a
 
 - [Like to think I play hockey in the NHL](https://i.imgur.com/iBXFEAU.jpg)
 - [Build my own custom spicy computers](https://pcpartpicker.com/list/V3L2xs)
-- Answer questions on [Stackoverflow](https://stackoverflow.com/questions/tagged/reactjs?sort=newest&page=1&pagesize=50)
 - Maintain remote Linux servers (Ubuntu/Debian based OSes)
 - [Walking Nico around town](https://i.imgur.com/sk64QET.jpg)
