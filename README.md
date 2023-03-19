@@ -2,7 +2,6 @@
   <img src="https://i.imgur.com/Tl5TjT9.png" />
 </a>
 
-
 [![Portfolio Badge](https://img.shields.io/badge/My%20Website-0088FF?&style=for-the-badge&logo=vercel&logoColor=white)](https://macar.dev/)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mattcarlotta)
 [![Codesandbox Badge](https://img.shields.io/badge/Codesandbox-343434?color=green&style=for-the-badge&logo=codesandbox&logoColor=white)](https://codesandbox.io/u/mattcarlotta/sandboxes)
@@ -16,6 +15,6 @@ In 2016, I changed my career from commercial art to fullstack software engineeri
 ## What do I do in my free time?
 
 - 🏒 [Like to think I play hockey in the NHL](https://i.imgur.com/iBXFEAU.jpg)
-- 🖥️ [Build my own custom spicy computers](https://pcpartpicker.com/list/V3L2xs)
+- 🖥️ [Build my own custom spicy computers](https://pcpartpicker.com/list/fQhZpH)
 - 🕹️ Maintain remote Linux servers
 - 🐕 [Walking Nico around town](https://i.imgur.com/sk64QET.jpg)
