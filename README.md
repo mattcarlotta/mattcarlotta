@@ -10,11 +10,6 @@
 In September 2016, I transitioned away from an art career to become a fullstack software engineer. As the years have gone by, I have 
 focused my efforts in: MongoDB, ExpressJS, ReactJS/ReduxJS and NodeJS.
 
-The apps I build are test-driven, data-driven, cross-platform, and production-ready. I also deploy and maintain them on remote headless Linux servers. Most importantly, I'm a huge proponent for building web accessible applications that adhere to the Web Content Accessibility Guidelines AA/AAA standards.
-
-Outside of work, I love walking my dog Nico, building my own desktop computers and watching sci-fi/mystery/thriller movies. In my free time, I am passionate about contributing to open-source projects. I enjoy engaging with the web development community by asking & answering questions on various platforms Stackoverflow, Codesandbox and Github discussions.
-
- 
 ## Github Stats
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mattcarlotta&hide=python&title_color=ffffff&text_color=c9cacc&line_height=27&icon_color=2bbc8a&bg_color=1d1f21&layout=compact&langs_count=6)
