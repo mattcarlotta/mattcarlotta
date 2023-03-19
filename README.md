@@ -9,7 +9,9 @@
 [![Stackoverflow Badge](https://img.shields.io/badge/Stackoverflow-fa7c1b?color=orange&style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/7376526/matt-carlotta)
 [![NextJS Badge](https://img.shields.io/badge/Next%2Ejs%20Contributor-8A2BE2?style=for-the-badge&logo=next.js&logoColor=white)](https://github.com/vercel/next.js)
 
-In 2016, I changed my career from commercial art to fullstack software engineering. Since then, I have specialized in using MongoDB, ExpressJS, ReactJS/ReduxJS, and NodeJS to build apps that are test-driven, data-driven, cross-platform, and production-ready. I also deploy and maintain these apps on remote headless Linux servers. Additionally, I prioritize building web accessible applications that meet the Web Content Accessibility Guidelines AA/AAA standards.
+In 2016, I changed my career from commercial art to fullstack software engineering. Since then, I have specialized in using MongoDB, ExpressJS, ReactJS/ReduxJS, and NodeJS to build apps that are test-driven, data-driven, cross-platform, and production-ready. Most importantly, I'm a huge proponent for building web accessible apps that adhere to the <a title="opens in a new window" href="https://www.w3.org/WAI/standards-guidelines/wcag/" rel="noopener noreferrer" target="_blank">
+  WCAG 2.1 Accessibility Guidelines.
+</a>
 
 ## What do I do in my free time?
 
