@@ -10,7 +10,7 @@
 [![NextJS Badge](https://img.shields.io/badge/Next%2Ejs%20Contributor-8A2BE2?style=for-the-badge&logo=next.js&logoColor=white)](https://github.com/vercel/next.js)
 
 In 2016, I changed my career from commercial art to fullstack software engineering. Since then, I have specialized in using MongoDB, ExpressJS, ReactJS/ReduxJS, and NodeJS to build apps that are test-driven, data-driven, cross-platform, and production-ready. Most importantly, I'm a huge proponent for building web accessible apps that adhere to the <a title="opens in a new window" href="https://www.w3.org/WAI/standards-guidelines/wcag/" rel="noopener noreferrer" target="_blank">
-  WCAG 2.1 Accessibility Guidelines.
+  WCAG AA/AAA Standards.
 </a>
 
 ## What do I do in my free time?
