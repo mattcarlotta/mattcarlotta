@@ -16,6 +16,7 @@ In 2016, I changed my career from commercial art to fullstack software engineeri
 
 - 👨‍🏫 Volunteer 1:1 mentor for [Code the Dream](https://codethedream.org/)
 - ⌨️ Contribute to open source projects
+- 📝 Answer questions on StackOverflow
 - 🏒 [Like to think I play hockey in the NHL](https://i.imgur.com/iBXFEAU.jpg)
 - 🖥️ [Build my own custom spicy computers](https://pcpartpicker.com/list/fQhZpH)
 - 🕹️ Maintain remote Linux VPSs
