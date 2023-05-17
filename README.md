@@ -18,7 +18,7 @@ In 2016, I changed my career from commercial art to fullstack software engineeri
 - ⌨️ Contribute to open source projects
 - 💪 Train my fundamental skill-set using [LeetCode](https://leetcode.com/mattcarlotta/)
 - 📝 Answer questions on StackOverflow
-- 🏒 [Like to think I play hockey in the NHL](https://i.imgur.com/iBXFEAU.jpg) (in 2019, I got to help out the NHL All-Star 2019 crew test run player intros!)
+- 🏒 [Like to think I play hockey in the NHL](https://i.imgur.com/iBXFEAU.jpg) (I had the opporunity to help out the NHL All-Star 2019 crew test-run player intros!)
 - 🖥️ [Build my own custom spicy computers](https://pcpartpicker.com/list/fQhZpH)
 - 🐕 [Walking Nico around town](https://i.imgur.com/sk64QET.jpg)
 
