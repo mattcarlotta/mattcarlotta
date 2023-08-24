@@ -1,9 +1,7 @@
-<a target="_blank" rel="noopener noreferrer" href="https://macar.dev/" alt="websiteHeader.png">
-  <img src="https://i.imgur.com/Tl5TjT9.png" />
-</a>
+![](https://i.imgur.com/Tl5TjT9.png)
 
-[![Portfolio Badge](https://img.shields.io/badge/My%20Website-0088FF?&style=for-the-badge&logo=vercel&logoColor=white)](https://macar.dev/)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mattcarlotta)
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0088FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mattcarlotta)
 [![Codesandbox Badge](https://img.shields.io/badge/Codesandbox-343434?color=green&style=for-the-badge&logo=codesandbox&logoColor=white)](https://codesandbox.io/u/mattcarlotta/sandboxes)
 [![Stackoverflow Badge](https://img.shields.io/badge/Stackoverflow-fa7c1b?color=orange&style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/7376526/matt-carlotta)
 [![NextJS Badge](https://img.shields.io/badge/Next%2Ejs%20Contributor-8A2BE2?style=for-the-badge&logo=next.js&logoColor=white)](https://github.com/vercel/next.js)
