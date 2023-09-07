@@ -20,4 +20,4 @@ In 2016, I changed my career from commercial art to fullstack software engineeri
 - 🖥️ [Build my own custom spicy computers](https://pcpartpicker.com/list/fQhZpH)
 - 🐕 [Walking Nico around town](https://i.imgur.com/sk64QET.jpg)
 
-Oh, by the way, did I mention I use [neovim](https://github.com/neovim/neovim) with a [Kinesis Advantage360 Pro](https://kinesis-ergo.com/shop/adv360pro/)? 🤓
+Oh... by the way... did I mention I use [Arch Linux](https://endeavouros.com/) and [neovim](https://github.com/neovim/neovim) while using a [Kinesis Advantage360 Pro](https://kinesis-ergo.com/shop/adv360pro/)? 😂
