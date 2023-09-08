@@ -14,8 +14,8 @@ In 2016, I changed my career from commercial art to fullstack software engineeri
 
 - 👨‍💻 Volunteer 1:1 mentor for [Code the Dream](https://codethedream.org/)
 - ⌨️ Contribute to open source projects
-- 💪 Train my fundamental skill-set using [LeetCode](https://leetcode.com/mattcarlotta/) and my typing skill-set using [monkeytype](https://monkeytype.com/profile/splitchunks)
-- 📝 Answer questions on StackOverflow
+- 💪 Train my typing skill-set using [monkeytype](https://monkeytype.com/profile/splitchunks)
+- 📝 Answer questions on [StackOverflow](https://stackoverflow.com/users/7376526/matt-carlotta)
 - 🏒 [Like to think I play hockey in the NHL](https://i.imgur.com/iBXFEAU.jpg) (I had the opporunity to help out the NHL All-Star 2019 crew test-run player intros!)
 - 🖥️ [Build my own custom spicy computers](https://pcpartpicker.com/list/fQhZpH)
 - 🐕 [Walking Nico around town](https://i.imgur.com/sk64QET.jpg)
