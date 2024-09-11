@@ -19,5 +19,3 @@ In 2016, I changed my career from commercial art to fullstack software engineeri
 - 🏒 [Like to think I play hockey in the NHL](https://i.imgur.com/iBXFEAU.jpg) (I had the opporunity to help out the NHL All-Star 2019 crew test-run player intros!)
 - 🖥️ [Build my own custom spicy computers](https://pcpartpicker.com/list/fQhZpH)
 - 🐕 [Walking Nico around town](https://i.imgur.com/sk64QET.jpg)
-
-Oh... by the way... did I mention I use [Arch Linux](https://endeavouros.com/) and [neovim](https://github.com/neovim/neovim) while using a [Kinesis Advantage360 Pro](https://kinesis-ergo.com/shop/adv360pro/)? 😂
