@@ -10,7 +10,7 @@ In 2016, I changed my career from commercial art to fullstack software engineeri
   WCAG AA/AAA Standards.
 </a>
 
-## What I've done in my free time?
+## What I've done in my free time...
 
 - 🐕 Walked [Nico](https://i.imgur.com/sk64QET.jpeg) around town way too many times!
 - 🚴 [Mountain biked almost 20 miles in a day](https://i.imgur.com/sB33d8X.png)
