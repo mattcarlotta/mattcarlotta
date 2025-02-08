@@ -10,12 +10,13 @@ In 2016, I changed my career from commercial art to fullstack software engineeri
   WCAG AA/AAA Standards.
 </a>
 
-## What do I do in my free time?
+## What I've done in my free time?
 
-- 👨‍💻 Volunteer 1:1 mentor for [Code the Dream](https://codethedream.org/)
-- ⌨️ Contribute to open source projects
-- 💪 Train my typing skill-set using [monkeytype](https://monkeytype.com/profile/splitchunks)
-- 📝 Answer questions on [StackOverflow](https://stackoverflow.com/users/7376526/matt-carlotta)
-- 🏒 [Like to think I play hockey in the NHL](https://i.imgur.com/iBXFEAU.jpg) (I had the opporunity to help out the NHL All-Star 2019 crew test-run player intros!)
-- 🖥️ [Build my own custom spicy computers](https://pcpartpicker.com/list/fQhZpH)
 - 🐕 [Walking Nico around town](https://i.imgur.com/sk64QET.jpg)
+- 🚴 [Mountain biked almost 20 miles in a day](https://i.imgur.com/sB33d8X.png)
+- 👨‍💻 Volunteered as 1:1 mentor for [Code the Dream](https://codethedream.org/)
+- ⌨️ Contributed to open source projects
+- 💪 Trained my typing skill-set using [monkeytype](https://monkeytype.com/profile/splitchunks)
+- 📝 Answered many questions on [StackOverflow](https://stackoverflow.com/users/7376526/matt-carlotta)
+- 🏒 [Worked a nationally broadcasted NHL All-Star game](https://i.imgur.com/iBXFEAU.jpg) (behind the scenes helping out the NHL All-Star crew test-run player intros!)
+- 🖥️ [Built my own custom spicy computers](https://pcpartpicker.com/list/fQhZpH)
