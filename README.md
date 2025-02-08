@@ -14,7 +14,7 @@ In 2016, I changed my career from commercial art to fullstack software engineeri
 
 - 🐕 Walked [Nico](https://i.imgur.com/sk64QET.jpg) around town way too many times!
 - 🚴 [Mountain biked almost 20 miles in a day](https://i.imgur.com/sB33d8X.png)
-- 🧩 [Completed a 2000 piece puzzle!](https://i.imgur.com/sk64QET.jpg)
+- 🧩 [Completed a 2000 piece puzzle!](https://i.imgur.com/NO42EOo.jpg)
 - 👨‍💻 Volunteered as 1:1 mentor for [Code the Dream](https://codethedream.org/)
 - ⌨️ Contributed to open source projects
 - 💪 Trained my typing skill-set using [monkeytype](https://monkeytype.com/profile/splitchunks)
