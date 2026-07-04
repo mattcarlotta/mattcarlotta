@@ -1,4 +1,4 @@
-![](https://i.imgur.com/ffz0ZJ7.jpeg)
+![](https://i.imgur.com/B9a5cQ1.jpeg)
 
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0088FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mattcarlotta)
