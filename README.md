@@ -4,10 +4,10 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0088FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mattcarlotta)
 [![NextJS Badge](https://img.shields.io/badge/Next%2Ejs%20Contributor-8A2BE2?style=for-the-badge&logo=next.js&logoColor=white)](https://github.com/vercel/next.js)
 
-In 2016, I transitioned away from a career in commercial art to become a full-stack (front-end leaning) founding engineer. Since then, I have developed web applications using MongoDB, PostgreSQL, Express.js, React.js, Next.js and Node.js that are test-driven, data-driven, cross-platform, and production-ready. From time to time, I'll also tinker with Shell Script, Rust, Go, C, and C++. 
+I began programming in the early 2000s by hacking some original Xbox video games in x86 assembly under the pseudonym "Hack0r" (I was 14 at the time, so cut me some slack!). In 2005, I decided to pursue a career as a commercial artist instead. In 2016, I left commercial art to return to programming as a full-stack (front-end leaning) founding engineer. Since then, I have built small to medium-sized web applications using TypeScript and React.js (Next.js) integrated with MongoDB or PostgreSQL via a Node.js backend. I also like to take side quests in Rust, Go, and C, building tools and stand-alone applications.
 
-Just as important to what I use, I'm a huge proponent for building applications that adhere to the <a title="opens in a new window" href="https://www.w3.org/WAI/standards-guidelines/wcag/" rel="noopener noreferrer" target="_blank">
-  WCAG AA/AAA Standards.
+No matter what I'm building, I'm a strong advocate for software that meets the <a title="opens in a new window" href="https://www.w3.org/WAI/standards-guidelines/wcag/" rel="noopener noreferrer" target="_blank">
+  WCAG Standards.
 </a>
 
-Outside of my day-to-day programming, I'm an avid hiker, mountain biker, Sci-Fi reader, and jigsaw puzzler. I also volunteer with non-profit organizations focused in software-engineering and enjoy mentoring up-and-coming developers.
+Outside of my day-to-day programming, I'm an avid hiker, mountain biker, Sci-Fi reader, and jigsaw puzzler. I also volunteer with non-profit organizations focused on early-career software engineering and enjoy mentoring up-and-coming developers.
